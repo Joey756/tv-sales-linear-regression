@@ -88,7 +88,7 @@ cd tv-sales-linear-regression
 pip install numpy pandas matplotlib scikit-learn
 
 # Open the notebook
-jupyter notebook tv_sales_regression.ipynb
+jupyter notebook Predicting_Price.ipynb
 ```
 
 ---
@@ -108,18 +108,11 @@ jupyter notebook tv_sales_regression.ipynb
 This project is part of a series of machine learning projects being built while completing the [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) course on Coursera. Projects span two domains:
 
 **Astronomy**
-- Blazar outburst energy injection rate (AO 0235+164, 2008 flare) — [link]
-- Galaxy redshift prediction — coming soon
+- Blazar outburst energy injection rate (AO 0235+164, 2008 flare) 
 
 **Banking & Finance**
-- House price prediction (Ames Housing Dataset) — [link]
 - TV advertising vs sales (this project)
-- Gold vs Oil price prediction — coming soon
+
 
 ---
 
-## Author
-
-**Dara**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Learning: Supervised ML — Regression and Classification (Coursera)
