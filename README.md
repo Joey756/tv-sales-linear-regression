@@ -70,7 +70,7 @@ The scatter plot shows a consistent linear trend throughout the full budget rang
 tv-sales-linear-regression/
 │
 ├── advertising.csv          # Dataset
-├── tv_sales_regression.ipynb  # Jupyter notebook with full analysis
+├── Predicting_Monthly_Sales_from_Advertising_Spend.ipynb  # Jupyter notebook with full analysis
 ├── plot.png                 # Scatter plot with regression line
 └── README.md                # This file
 ```
@@ -88,7 +88,7 @@ cd tv-sales-linear-regression
 pip install numpy pandas matplotlib scikit-learn
 
 # Open the notebook
-jupyter notebook Predicting_Price.ipynb
+jupyter notebook Predicting_Monthly_Sales_from_Advertising_Spend.ipynb
 ```
 
 ---
